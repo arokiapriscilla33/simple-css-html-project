@@ -1,0 +1,95 @@
+li{
+    display: inline;
+    color: grey;
+
+}
+h1{
+    display: block;
+    color: white;
+}
+ul,li{
+    display: inline;
+    
+}
+.center{
+    text-align: center;
+}
+
+li,h1{
+    display: inline-block;
+}
+
+nav{
+    background-color: black;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+    padding-left: 48%;
+}
+li:hover{
+    color: antiquewhite;
+}
+li{
+    cursor: pointer;
+}
+
+.box1{
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    width: auto;
+}
+
+.box2{
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    width: auto;
+}
+.box3{
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    width: auto;
+}
+
+.product{
+    text-align: center;
+}
+.box1:hover{
+    background-color: black;
+    color: aliceblue;
+}
+.box2:hover{
+    background-color: black;
+    color: aliceblue;
+}
+
+.box3:hover{
+    background-color: black;
+    color: aliceblue;
+}
+
+.contact{
+
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+    margin-top: 10px;
+
+    
+
+}
+.send{
+    display: inline-block;
+    margin-left: 40%;
+    margin-right: 40%;
+}
